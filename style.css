@@ -1,0 +1,41 @@
+#central-title{
+    color: darkolivegreen;
+}
+#title{
+    color: darkolivegreen;
+    text-decoration: underline;
+}
+
+
+
+
+body{
+    margin: 0px;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1{text-align: center;
+  
+}
+.navbar ul{
+list-style-type: none;
+background-color: rgba(73, 59, 32, 0.524);
+padding: 0px;
+margin: 10px;
+overflow: hidden;
+}
+.navbar a{
+color: rgba(246, 246, 246, 0.348);
+text-decoration: none;
+padding: 15px;
+display: block;
+text-align: center;
+}
+.navbar a:hover{
+    background-color: rgba(20, 12, 28, 0.471);
+}
+.navbar li{
+    float: left;
+}
